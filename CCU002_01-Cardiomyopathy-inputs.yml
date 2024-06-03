@@ -1,0 +1,66 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/other-ccu002_01-cardiomyopathy---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-cardiomyopathy---secondary.py
+inputModule4:
+  class: File
+  path: python/restrictive-ccu002_01-cardiomyopathy---secondary.py
+inputModule5:
+  class: File
+  path: python/ischaemic-ccu002_01-cardiomyopathy---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-cardiomyopathy-agent---secondary.py
+inputModule7:
+  class: File
+  path: python/endomyocardial-ccu002_01-cardiomyopathy---secondary.py
+inputModule8:
+  class: File
+  path: python/scapuloperoneal-ccu002_01-cardiomyopathy---secondary.py
+inputModule9:
+  class: File
+  path: python/severe-ccu002_01-cardiomyopathy---secondary.py
+inputModule10:
+  class: File
+  path: python/familial-ccu002_01-cardiomyopathy---secondary.py
+inputModule11:
+  class: File
+  path: python/tachyccu002_01-cardiomyopathy-cardiomyopathy---secondary.py
+inputModule12:
+  class: File
+  path: python/cardiomyopathy---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-cardiomyopathy-dystrophy---secondary.py
+inputModule14:
+  class: File
+  path: python/amyloid-ccu002_01-cardiomyopathy---secondary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-cardiomyopathy-heart---secondary.py
+inputModule16:
+  class: File
+  path: python/nutritional-ccu002_01-cardiomyopathy---secondary.py
+inputModule17:
+  class: File
+  path: python/metabolic-ccu002_01-cardiomyopathy---secondary.py
+inputModule18:
+  class: File
+  path: python/muscular-ccu002_01-cardiomyopathy---secondary.py
+inputModule19:
+  class: File
+  path: python/primary-ccu002_01-cardiomyopathy---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu002_01-cardiomyopathy-cardiac---secondary.py
+inputModule21:
+  class: File
+  path: python/output-cases.py
